@@ -31,4 +31,4 @@ This application is currently deployed on [Heroku](https://hidden-coast-74511.he
 
 ## Authors
 
-- **Your name** - [Your GitHub username](https://github.com/DDwillis59)
+- **Daeshaun Willis** - [DDwillis59](https://github.com/DDwillis59)
